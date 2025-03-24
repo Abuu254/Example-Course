@@ -1,0 +1,11 @@
+id: course-example
+name: Course Example Dojo
+type: course
+award:
+  emoji: 🎓
+image: pwncollege/challenge-simple
+modules:
+  - id: module-1
+    name: Introduction Module
+  - id: module-2
+    name: Advanced Concepts
